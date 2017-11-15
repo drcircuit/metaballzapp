@@ -1,0 +1,22 @@
+{
+  "name": "MetaBallz",
+  "version": "1.0.0",
+  "description": "A Graphics Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GFX",
+    "DEMO",
+    "SILLZNESS"
+  ],
+  "author": "Espen Sande Larsen",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.8.2",
+    "express": "^4.16.2",
+    "serve-index": "^1.9.1",
+    "serve-static": "^1.13.1"
+  }
+}

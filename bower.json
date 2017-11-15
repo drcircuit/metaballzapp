@@ -1,0 +1,30 @@
+{
+  "name": "MetaBalls",
+  "authors": [
+    "espensl <espensl@compello.com>"
+  ],
+  "description": "A graphics demo showing iso surfaces / metaballs in Javascript HTML Canvas",
+  "main": "index.html",
+  "keywords": [
+    "gfx",
+    "js",
+    "demo",
+    "metaballs",
+    "isosurface",
+    "jim",
+    "blinn"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "drc.canvas.lib": "DrCircuitsCanvasLibrary#*"
+  }
+}
